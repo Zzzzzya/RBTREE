@@ -1,0 +1,3 @@
+/mnt/hgfs/mylinux/code/RBTREE/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/mylinux/code/RBTREE/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/mylinux/code/RBTREE/build/CMakeFiles/main.dir
