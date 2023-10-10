@@ -1,4 +1,6 @@
-cmake_minimum_required(VERSION 3.0.0)
+cmake_minimum_required(VERSION 3.15)
 project(RBTREE)
+set(CMAKE_CXX_STANDARD 20)
+include_directories(${PROJECT_SOURCE_DIR}/include)
 file(GLOB SRC_LIST ${PROJECT_SOURCE_DIR}/src/*.cpp)
 add_executable(main ${SRC_LIST})
